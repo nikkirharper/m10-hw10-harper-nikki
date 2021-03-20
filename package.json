@@ -1,0 +1,24 @@
+{
+  "name": "m10-hw10-harper-nikki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkirharper/m10-hw10-harper-nikki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikkirharper/m10-hw10-harper-nikki/issues"
+  },
+  "homepage": "https://github.com/nikkirharper/m10-hw10-harper-nikki#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
